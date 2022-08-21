@@ -1,4 +1,4 @@
-# node-react-chat-app
+# MERN-Mobx-chat-app
 
 Node + React websocket based live chat app
 
@@ -16,7 +16,7 @@ Node + React websocket based live chat app
 - Server in **server** folder
 - Client in **chat-client** folder
 
-## Run with docker :cake:
+## Run with docker
 
 **Run locally with hot reloading**
 
