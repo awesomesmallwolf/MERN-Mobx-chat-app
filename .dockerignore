@@ -3,6 +3,7 @@ node_modules
 
 # Client
 chat-client
+
 # Docker files
 docker-compose.*
  

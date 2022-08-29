@@ -10,7 +10,6 @@ export default class ClientManager {
   constructor() {
     this.clients = new Map();
   }
-
   /**
    * Adds client for manager.
    *

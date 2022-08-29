@@ -20,7 +20,6 @@ const makeHandleEvent = (client, clientManager, chatroomManager) => {
       return res ? resolve(res) : reject(rejectionMessage);
     });
   };
-
   /**
    * Verifies that user exists.
    *
@@ -190,6 +189,6 @@ export default (client, clientManager, chatroomManager) => {
     handleMessage,
     handleGetChatrooms,
     handleCreateChatroom,
-    handleDisconnect
+    handleDisconnect,
   };
 };

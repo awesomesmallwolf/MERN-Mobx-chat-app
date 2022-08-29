@@ -1,7 +1,11 @@
 import Chatroom from '../models/Chatroom';
 
 // Todo get from mongo DB!
-const CHATROOMS = [{ name: 'Sports', symbol: '⚽' }, { name: 'Food', symbol: '🍔' }, { name: 'Wine', symbol: '🍷' }];
+const CHATROOMS = [
+  { name: 'Sports', symbol: '⚽' },
+  { name: 'Food', symbol: '🍔' },
+  { name: 'Wine', symbol: '🍷' },
+];
 
 /**
  * ChatroomManager to handle chatroom stuff.

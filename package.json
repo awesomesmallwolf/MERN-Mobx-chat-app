@@ -17,6 +17,7 @@
   "bugs": {
     "url": "https://github.com/opazupa/node-react-chat-app/issues"
   },
+  
   "homepage": "https://github.com/opazupa/node-react-chat-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
