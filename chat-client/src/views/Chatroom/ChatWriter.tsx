@@ -32,7 +32,7 @@ class ChatWriter extends React.Component<IChatWriterProps, IChatWriterState> {
   constructor(props, context) {
     super(props, context);
     this.state = {
-      message: ''
+      message: '',
     };
   }
 

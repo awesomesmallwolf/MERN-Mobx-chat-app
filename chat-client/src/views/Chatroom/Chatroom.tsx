@@ -55,7 +55,7 @@ class Chatroom extends React.Component<IChatroomProps, IChatroomState> {
       failedToJoin: false,
       isLoading: true,
       room: undefined,
-      chatHistory: []
+      chatHistory: [],
     };
 
     // For the looks!

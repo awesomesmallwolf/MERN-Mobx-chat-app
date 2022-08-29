@@ -45,7 +45,7 @@ class Home extends React.Component<IHomeProps, IHomeState> {
     super(props, context);
 
     this.state = {
-      userName: (props.userStore!.user && props.userStore!.user!.userName) || ''
+      userName: (props.userStore!.user && props.userStore!.user!.userName) || '',
     };
   }
 
